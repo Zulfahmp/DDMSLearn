@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_Login_With_Valid_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5949301-99a7-4f58-a6ab-33003fbf5ad8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>beb1b411-7b3d-4e0a-82b5-3956bf0c5cfb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin-100002'</defaultValue>
+      <description></description>
+      <id>beb1b411-7b3d-4e0a-82b5-3956bf0c5cfb</id>
+      <masked>true</masked>
+      <name>textExpected</name>
+   </variable>
+</TestCaseEntity>

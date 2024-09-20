@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_Login_With_Invalid_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5561a1a9-820c-4069-a5e5-2c5a158dbd6e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14fefb59-20f0-4afb-8a56-b1c9326ac643</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4712ba2-436f-466d-b558-72326c0df344</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e350ccc-1d8f-4a79-8e17-1637ffc302a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b953d74-3041-4b4e-bb57-658d6308ad6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin-111111'</defaultValue>
+      <description></description>
+      <id>14fefb59-20f0-4afb-8a56-b1c9326ac643</id>
+      <masked>false</masked>
+      <name>invalidUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'adminnnn'</defaultValue>
+      <description></description>
+      <id>b4712ba2-436f-466d-b558-72326c0df344</id>
+      <masked>false</masked>
+      <name>InvalidPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Error!... User Name Not Valid'</defaultValue>
+      <description></description>
+      <id>9e350ccc-1d8f-4a79-8e17-1637ffc302a0</id>
+      <masked>false</masked>
+      <name>alertUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Error!... Password Not Valid'</defaultValue>
+      <description></description>
+      <id>8b953d74-3041-4b4e-bb57-658d6308ad6f</id>
+      <masked>false</masked>
+      <name>alertPassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_Login_With_Blank_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81127e3e-d1a3-4fd6-ac50-97cd22c3b662</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7590dbb2-7961-4bed-9e0a-15fec3ba7875</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Please fill out this field.'</defaultValue>
+      <description></description>
+      <id>7590dbb2-7961-4bed-9e0a-15fec3ba7875</id>
+      <masked>false</masked>
+      <name>expectTextAlertBlank</name>
+   </variable>
+</TestCaseEntity>
